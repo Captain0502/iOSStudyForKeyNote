@@ -1,5 +1,7 @@
 # iOSStudyForKeyNote
 
+请使用最新的KeyNote打开演示
+
 ![image](https://raw.githubusercontent.com/Captain0502/iOSStudyForKeyNote/master/ScreenShot/image00.png)
 
 ![image](https://raw.githubusercontent.com/Captain0502/iOSStudyForKeyNote/master/ScreenShot/image01.png)
